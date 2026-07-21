@@ -1,0 +1,74 @@
+﻿Codi_Barri,Nom_Barri,Nom_Districte,poblacio_total,poblacio_65_mes,poblacio_menys_5,pct_65_mes,pct_menys_5
+1,el Raval,Ciutat Vella,50449,5040,2034,9.99,4.03
+2,el Barri Gòtic,Ciutat Vella,27059,2190,537,8.09,1.98
+3,la Barceloneta,Ciutat Vella,14471,2301,308,15.9,2.13
+4,"Sant Pere, Santa Caterina i la Ribera",Ciutat Vella,22859,2917,515,12.76,2.25
+5,el Fort Pienc,Eixample,37617,7395,1017,19.66,2.7
+6,la Sagrada Família,Eixample,53136,12001,1415,22.59,2.66
+7,la Dreta de l'Eixample,Eixample,45089,9239,1303,20.49,2.89
+8,l'Antiga Esquerra de l'Eixample,Eixample,42726,9088,1237,21.27,2.9
+9,la Nova Esquerra de l'Eixample,Eixample,58979,14080,1743,23.87,2.96
+10,Sant Antoni,Eixample,38878,8256,1169,21.24,3.01
+11,el Poble-sec,Sants-Montjuïc,40021,6547,1132,16.36,2.83
+12,la Marina del Prat Vermell,Sants-Montjuïc,3118,263,167,8.43,5.36
+13,la Marina de Port,Sants-Montjuïc,31693,6695,998,21.12,3.15
+14,la Font de la Guatlla,Sants-Montjuïc,10859,2541,277,23.4,2.55
+15,Hostafrancs,Sants-Montjuïc,16973,3288,603,19.37,3.55
+16,la Bordeta,Sants-Montjuïc,21111,4688,714,22.21,3.38
+17,Sants - Badal,Sants-Montjuïc,25201,5801,727,23.02,2.88
+18,Sants,Sants-Montjuïc,46507,9031,1370,19.42,2.95
+19,les Corts,Les Corts,46417,12830,1471,27.64,3.17
+20,la Maternitat i Sant Ramon,Les Corts,24565,6621,778,26.95,3.17
+21,Pedralbes,Les Corts,12380,2765,439,22.33,3.55
+22,"Vallvidrera, el Tibidabo i les Planes",Sarrià-Sant Gervasi,4741,774,153,16.33,3.23
+23,Sarrià,Sarrià-Sant Gervasi,24749,5402,956,21.83,3.86
+24,les Tres Torres,Sarrià-Sant Gervasi,16274,3627,606,22.29,3.72
+25,Sant Gervasi - la Bonanova,Sarrià-Sant Gervasi,26693,5851,1021,21.92,3.82
+26,Sant Gervasi - Galvany,Sarrià-Sant Gervasi,49038,10676,2073,21.77,4.23
+27,el Putxet i el Farró,Sarrià-Sant Gervasi,30747,6600,1194,21.47,3.88
+28,Vallcarca i els Penitents,Gràcia,16781,3634,524,21.66,3.12
+29,el Coll,Gràcia,8027,1607,248,20.02,3.09
+30,la Salut,Gràcia,13913,3358,434,24.14,3.12
+31,la Vila de Gràcia,Gràcia,51127,9299,1557,18.19,3.05
+32,el Camp d'en Grassot i Gràcia Nova,Gràcia,36369,8624,1074,23.71,2.95
+33,el Baix Guinardó,Horta-Guinardó,26224,6442,775,24.57,2.96
+34,Can Baró,Horta-Guinardó,9626,2092,297,21.73,3.09
+35,el Guinardó,Horta-Guinardó,39060,8424,1248,21.57,3.2
+36,la Font d'en Fargues,Horta-Guinardó,9774,2393,322,24.48,3.29
+37,el Carmel,Horta-Guinardó,33717,6909,1051,20.49,3.12
+38,la Teixonera,Horta-Guinardó,12703,2585,397,20.35,3.13
+39,Sant Genís dels Agudells,Horta-Guinardó,7882,1716,264,21.77,3.35
+40,Montbau,Horta-Guinardó,5339,1177,153,22.05,2.87
+41,la Vall d'Hebron,Horta-Guinardó,6071,1756,159,28.92,2.62
+42,la Clota,Horta-Guinardó,944,10,58,1.06,6.14
+43,Horta,Horta-Guinardó,31066,6861,953,22.09,3.07
+44,Vilapicina i la Torre Llobeta,Nou Barris,26343,6526,744,24.77,2.82
+45,Porta,Nou Barris,31139,6078,865,19.52,2.78
+46,el Turó de la Peira,Nou Barris,17339,3006,697,17.34,4.02
+47,Can Peguera,Nou Barris,2046,443,50,21.65,2.44
+48,la Guineueta,Nou Barris,15587,4110,426,26.37,2.73
+49,Canyelles,Nou Barris,6889,2136,174,31.01,2.53
+50,les Roquetes,Nou Barris,17554,2915,693,16.61,3.95
+51,Verdun,Nou Barris,13475,2593,408,19.24,3.03
+52,la Prosperitat,Nou Barris,28076,6397,821,22.78,2.92
+53,la Trinitat Nova,Nou Barris,8102,1348,313,16.64,3.86
+54,Torre Baró,Nou Barris,3187,415,125,13.02,3.92
+55,Ciutat Meridiana,Nou Barris,11483,1770,517,15.41,4.5
+56,Vallbona,Nou Barris,1289,186,44,14.43,3.41
+57,la Trinitat Vella,Sant Andreu,11283,1684,512,14.93,4.54
+58,Baró de Viver,Sant Andreu,2618,395,116,15.09,4.43
+59,el Bon Pastor,Sant Andreu,15806,2308,527,14.6,3.33
+60,Sant Andreu,Sant Andreu,59199,14416,1794,24.35,3.03
+61,la Sagrera,Sant Andreu,31144,7630,939,24.5,3.02
+62,el Congrés i els Indians,Sant Andreu,15218,3181,525,20.9,3.45
+63,Navas,Sant Andreu,22581,5456,634,24.16,2.81
+64,el Camp de l'Arpa del Clot,Sant Martí,39469,9014,1125,22.84,2.85
+65,el Clot,Sant Martí,26850,6195,749,23.07,2.79
+66,el Parc i la Llacuna del Poblenou,Sant Martí,17595,3419,615,19.43,3.5
+67,la Vila Olímpica del Poblenou,Sant Martí,9187,1912,233,20.81,2.54
+68,el Poblenou,Sant Martí,34636,5879,1131,16.97,3.27
+69,Diagonal Mar i el Front Marítim del Poblenou,Sant Martí,13671,2232,534,16.33,3.91
+70,el Besòs i el Maresme,Sant Martí,30568,4547,1089,14.88,3.56
+71,Provençals del Poblenou,Sant Martí,21999,4240,748,19.27,3.4
+72,Sant Martí de Provençals,Sant Martí,26927,6484,713,24.08,2.65
+73,la Verneda i la Pau,Sant Martí,30877,7667,894,24.83,2.9
