@@ -1,6 +1,6 @@
 # Refugis climàtics i vulnerabilitat social a Barcelona
 
-Treball final del bootcamp d'anàlisi de dades. Estudia si la vulnerabilitat social d'un barri —renda i població de risc (gent gran i infants)— es relaciona amb la seva cobertura real de refugis climàtics, i si l'agregació oficial per districte amaga situacions de risc a escala de barri.
+Projecte d'anàlisi de dades. Estudia si la vulnerabilitat social d'un barri —renda i població de risc (gent gran i infants)— es relaciona amb la seva cobertura real de refugis climàtics, i si l'agregació oficial per districte amaga situacions de risc a escala de barri.
 
 L'anàlisi treballa als 73 barris de Barcelona, creuant un índex de vulnerabilitat climàtica amb el nombre de refugis "reals" (gratuïts i d'accés lliure) disponibles a cada barri.
 
